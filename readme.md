@@ -8,6 +8,6 @@ This backend api was developed in Python & Django.
 
 ## URL Analysis
 
-API Overview - http://localhost:8000/
-Swagger API - http://localhost:8000/swagger
-Admin - http://localhost:8000/admin
+-   API Overview - http://localhost:8000/
+-   Swagger API - http://localhost:8000/swagger
+-   Admin - http://localhost:8000/admin
