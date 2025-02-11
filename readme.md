@@ -6,6 +6,8 @@ This backend api was developed in Python & Django.
 
 -   Django, SQLite, SwaggerUI
 
+## URL Analysis
+
 API Overview - http://localhost:8000/
 Swagger API - http://localhost:8000/swagger
 Admin - http://localhost:8000/admin
