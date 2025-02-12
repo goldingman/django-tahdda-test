@@ -5,7 +5,6 @@ from django.contrib.auth.models import User
 from rest_framework.validators import UniqueValidator
 from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
 from django.contrib.auth.password_validation import validate_password
-from drf_yasg.utils import swagger_auto_schema
 
 class MyTokenObtainPairSerializer(TokenObtainPairSerializer):
 
